@@ -1,5 +1,7 @@
 # Simple DB Project
 
+[![CI](https://github.com/zvikfir/simple-db/actions/workflows/ci.yml/badge.svg)](https://github.com/zvikfir/simple-db/actions/workflows/ci.yml)
+
 A lightweight database implementation for educational purposes based on the description shown in the book Designing Data Intensive Applications.
 
 ## Overview
@@ -19,7 +21,7 @@ Full disclosure, it was mostly (>= 90%) built using Copilot and Claude 3.5 Sonne
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/simple-db.git
+git clone https://github.com/zvikfir/simple-db.git
 
 # Navigate to project directory
 cd simple-db
